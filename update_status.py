@@ -56,11 +56,3 @@ for task in user_tasks:
 
 # Обновление статуса
 update_status()  # Функция для изменения статуса
-
-#Можно в цикле при добавлении заголовка. Сделать в одну строку.
-#
-# note["titles"] = []
-#
-# for i in range(3):
-#
-# note["titles"].append(input(f"Введите заголовок заметки {i + 1}: ").strip().capitalize())
